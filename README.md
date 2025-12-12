@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Rana 
+## Hi there 👋, My Name is Rana 
 
 #### I am frontend Developer
 ![I am frontend Developer](https://i.pinimg.com/1200x/3a/d5/f5/3ad5f546478094549f6fb1e5395e62a0.jpg)
