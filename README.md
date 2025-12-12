@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**rana-abdelmotaleb/rana-abdelmotaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Rana 
+#### I am frontend Developer
+![I am frontend Developer](https://i.pinimg.com/1200x/3a/d5/f5/3ad5f546478094549f6fb1e5395e62a0.jpg)
 
-Here are some ideas to get you started:
+A Frontend Developer passionate about building clean, interactive, and user-friendly web applications. Loves learning new technologies like React, Vue.js, TypeScript, and Tailwind CSS, and turning designs from Figma into functional code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  
+* VUE.js
+*  React  *JavaScript (ES6)
+*   TypeScript
+* HTML5
+*    CSS3
+*  Bootstrap
+*  Tailwind CSS
+*   Next.js
+*    Responsive Design
+*    Git
+*  RESTful APIs
+*   DOM Manipulation
+*    Figma to Code
+*    Basic UX Principles
+*  Debugging & Testing
+*   npm
+
+
+
+
+
+
