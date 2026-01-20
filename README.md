@@ -49,15 +49,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareselabasery&show_icons=true&locale=en" alt="stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fareselabasery&show_icons=true&locale=en&layout=compact" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareselabasery&" alt="streak" />
-</p>
