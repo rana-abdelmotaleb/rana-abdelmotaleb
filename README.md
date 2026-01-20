@@ -3,7 +3,7 @@
 
 ---
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="max-width: fit-content;margin:auto; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="margin:auto; width:fit-content;" data-target="animated-image.originalImage">
 
 <p align=center >
   <img src="https://komarev.com/ghpvc/?username=fareselabasery&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
