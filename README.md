@@ -5,7 +5,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<p align="center">
+<p style={margin:auto}>
   <img src="https://komarev.com/ghpvc/?username=fareselabasery&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
